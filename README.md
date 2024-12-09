@@ -7,8 +7,8 @@
 - **Software Developer at Red Hat** Developers working with Docker and Kubernetes often use Python, Go, Ansible, React, Bash, and other languages.  
 - **Scrum Master** for my team, ensuring efficient workflows and facilitating Agile processes.  
 - Passionate about **open-source contributions**:  
-  - Contributor to the **[notebooks-v2](https://github.com/your-notebooks-v2-link)** project.  
-  - Contributor to **aqa-test-tools**, a project under the **[Adoptium](https://adoptium.net/)** initiative.  
+  - Contributor to the **[notebooks-v2](https://github.com/liavweiss/notebooks)** project.  
+  - Contributor to **aqa-test-tools**, a project under the **[Adoptium](https://github.com/liavweiss/aqa-test-tools)** initiative.  
 
 ---
 
